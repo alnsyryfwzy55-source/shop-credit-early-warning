@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alnsyryfwzy55-source/shop-credit-early-warning/blob/main/notebooks/early_warning_analysis.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![License](https://img.shields.io/badge/License-MIT-green)
-**[Try the live app](https://raw.githubusercontent.com/alnsyryfwzy55-source/shop-credit-early-warning/app/)** - upload a ledger and get the follow-up in your browser.
+**[Try the live app](https://alnsyryfwzy55-source.github.io/shop-credit-early-warning/app/)** - upload a ledger and get the follow-up in your browser.
 
 A machine-learning system that tells a merchant, early and in plain words, **which customers who owe money are drifting towards not paying** — and where to focus collection first. Built and validated on real credit ledgers collected by hand.
 

@@ -6,7 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alnsyryfwzy55-source/shop-credit-early-warning/blob/main/notebooks/early_warning_analysis.ipynb)
 
-**[جرب التطبيق مباشرة](https://raw.githubusercontent.com/alnsyryfwzy55-source/shop-credit-early-warning/app/)** - ارفع دفتر الديون واحصل على قائمة المتابعة.
+**[جرب التطبيق مباشرة](https://alnsyryfwzy55-source.github.io/shop-credit-early-warning/app/)** - ارفع دفتر الديون واحصل على قائمة المتابعة.
 
 نظام تعلم آلة يخبر التاجر مبكرًا وبكلمات بسيطة: **أي العملاء المدينين يتجهون نحو عدم السداد**، ومن يبدأ بمتابعته أولًا. بُني واختُبر على دفاتر ديون حقيقية جُمعت ميدانيًا.
 
