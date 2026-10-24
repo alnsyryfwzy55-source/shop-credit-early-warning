@@ -6,6 +6,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alnsyryfwzy55-source/shop-credit-early-warning/blob/main/notebooks/early_warning_analysis.ipynb)
 
+**[جرب التطبيق مباشرة](https://raw.githubusercontent.com/alnsyryfwzy55-source/shop-credit-early-warning/app/)** - ارفع دفتر الديون واحصل على قائمة المتابعة.
+
 نظام تعلم آلة يخبر التاجر مبكرًا وبكلمات بسيطة: **أي العملاء المدينين يتجهون نحو عدم السداد**، ومن يبدأ بمتابعته أولًا. بُني واختُبر على دفاتر ديون حقيقية جُمعت ميدانيًا.
 
 ---
@@ -112,6 +114,7 @@ python src/credit_system/monitor.py data/shop_ledgers.csv --models models --log 
 
 ## ٦. الحدود والاستخدام المسؤول
 119 عميلًا في 4 محلات؛ لا يحكم على عميل جديد تمامًا عند أول طلب؛ يضعف مع نوع نشاط لم يره، فيُراقب أي نشاط جديد 3 أشهر ثم يُعاد التدريب. هو أداة دعم قرار: **لا رفض آلي**، ويُسجَّل كل قرار حتى لا تنحاز البيانات مع الوقت لمن مُنح الدين فقط.
+
 
 ## إعداد
 **فوزي النصيري — Fawzi AL-Nusairi**
